@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: rgb(60, 153, 122);
+}
+.sectionMain{
+    margin: 20px;
+}
+header{
+    margin: 20px;
+}
+h1{
+    color: whitesmoke;   
+}
+a{
+    color: whitesmoke;
+    font-size: 20px;
+}
+.myLogo{
+    width: 170px;
+    height: 140px;
+}
